@@ -16,7 +16,7 @@ Comprehensive SQL analysis of airline database covering flights, passengers, boo
 
 ## Key Results
 - Identified top 5 busiest routes with highest passenger volume
-- 18.5% of flights experienced delays beyond 30 minutes
+- 50% of flights experienced delays beyond 30 minutes
 - High-value frequent flyers identified for loyalty program optimization
 - Most profitable aircraft types determined
 
